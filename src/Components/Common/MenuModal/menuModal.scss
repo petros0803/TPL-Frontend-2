@@ -1,0 +1,31 @@
+.menuModal--container {
+  width: 150px;
+  position: absolute;
+  background-color: white;
+  color: black;
+  z-index: 100;
+  border: 1px solid #5603ad;
+
+  .navlink-item {
+    color: #5603ad;
+  }
+
+  .menuModal-choice {
+    border-bottom: 1px solid #5603ad;
+    color: #5603ad;
+    padding-left: 10px;
+    height: 30px;
+    cursor: pointer;
+  }
+
+  .menuModal-choice:hover,
+  .navlink-item:hover {
+    background-color: #5603ad;
+    color: white;
+  }
+
+  p {
+    margin: 0;
+    transform: translateY(15%);
+  }
+}

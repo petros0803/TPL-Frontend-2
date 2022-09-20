@@ -1,0 +1,16 @@
+.delete--users--button {
+  display: flex;
+  justify-content: space-between;
+
+  .users--delete--button {
+    background-color: #ee3524 !important;
+    transition: background 0.4s;
+    border: none !important;
+    color: White !important;
+    border-radius: 5px;
+  }
+
+  .users--delete--button:hover {
+    background-color: red !important;
+  }
+}

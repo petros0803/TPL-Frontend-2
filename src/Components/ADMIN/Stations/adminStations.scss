@@ -1,0 +1,56 @@
+.trails--container {
+  overflow-y: auto;
+  height: calc(100vh - 180px);
+  padding-right: 10px;
+
+  .trails--title {
+    font-size: 24px;
+    color: #5603ad;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .trails--button {
+    text-align: right;
+
+    button {
+      margin: 0 auto;
+      border: 1px solid #5603ad;
+      color: #5603ad;
+      outline: none;
+      background-color: transparent;
+      height: 40px;
+      width: 150px;
+      font-size: 18px;
+      transition: background 0.4s;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: #5603ad;
+      color: white;
+    }
+  }
+
+  .trails--table {
+    width: 100%;
+    margin-top: 20px !important;
+    border-collapse: collapse;
+    border: 1px solid #5603ad;
+    margin: 0 auto;
+    img {
+      cursor: pointer;
+    }
+
+    tr {
+      border-bottom: 1px solid #5603ad;
+      height: 50px;
+    }
+
+    td {
+      border-left: 1px solid #5603ad;
+      padding: 0.5em 0.5em 0.5em;
+    }
+  }
+}

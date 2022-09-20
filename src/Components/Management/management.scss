@@ -1,0 +1,19 @@
+.management--container {
+  height: calc(100vh - 180px);
+  overflow-y: scroll;
+
+  .management--title {
+    font-size: 24px;
+    color: #5603ad;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .management--personCard {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 100px;
+  }
+}

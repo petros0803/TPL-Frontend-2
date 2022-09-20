@@ -1,0 +1,28 @@
+.announce--page--container {
+  width: 80%;
+  margin: 0 auto;
+
+  .announce--page-back {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    margin: 0 auto;
+    border: none;
+    background-color: #5603ad;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .announce--page--title {
+    font-size: 24px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .announce--page--description {
+    font-size: 16px;
+    text-indent: 15px;
+  }
+}

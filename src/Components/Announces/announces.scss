@@ -1,0 +1,13 @@
+.announces--page--container {
+  width: 100%;
+  overflow-y: auto;
+  height: calc(100vh - 180px);
+  padding-right: 10px;
+
+  .announce--page--title {
+    font-size: 24px;
+    color: #5603ad;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}

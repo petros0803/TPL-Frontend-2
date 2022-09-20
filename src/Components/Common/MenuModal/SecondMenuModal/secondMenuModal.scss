@@ -1,0 +1,27 @@
+.secondMenuModal--container {
+  width: 150px;
+  background-color: white;
+  color: black;
+  z-index: 100;
+  border: 1px solid #5603ad;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: -32px;
+
+  .secondMenuModal-choice {
+    border-bottom: 1px solid #5603ad;
+    color: #5603ad;
+    padding-left: 10px;
+    height: 30px;
+  }
+
+  .secondMenuModal-choice:hover {
+    background-color: #5603ad;
+    color: white;
+  }
+
+  p {
+    margin: 0;
+    transform: translateY(15%);
+  }
+}

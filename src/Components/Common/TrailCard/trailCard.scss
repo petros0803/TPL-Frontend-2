@@ -1,0 +1,29 @@
+.trails--container--card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.trails--trail--card {
+  margin-bottom: 30px;
+  text-align: center;
+  cursor: pointer;
+  width: 350px;
+  transition: all 0.2s ease-in-out;
+}
+
+.trails--trail--card:hover {
+  transform: scale(1.05);
+}
+
+.trails--trail--uno--card:focus-visible,
+.trails--trail--card:focus-visible {
+  outline: none;
+}
+
+.trails--trail--uno--card {
+  border: 1px solid #5603ad;
+  padding: 10px;
+  border-radius: 10px;
+}

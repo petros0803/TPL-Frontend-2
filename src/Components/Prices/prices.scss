@@ -1,0 +1,48 @@
+.subscriptions--container {
+  overflow-y: scroll;
+  height: calc(100vh - 180px);
+  padding-right: 10px;
+
+  .subscriptions--title {
+    font-size: 24px;
+    color: #5603ad;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .subscriptions--title-second {
+    text-align: center;
+    padding: 0 40px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .subscriptions--table {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-collapse: collapse;
+    border: 1px solid #5603ad;
+
+    tr {
+      border-bottom: 1px solid #5603ad;
+      height: 50px;
+    }
+
+    .subscriptions--table--text {
+      width: 85%;
+      text-indent: 15px;
+    }
+
+    .subscriptions--table--value {
+      width: 15%;
+      border-left: 1px solid #5603ad;
+    }
+  }
+
+  .subscriptions--subscriptions--text {
+    margin-top: 20px;
+    padding: 0 40px;
+  }
+}

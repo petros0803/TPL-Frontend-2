@@ -1,0 +1,130 @@
+{
+  "trails": [
+    {
+      "id": "1",
+      "title": "Linia 1",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Cinema  - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru - Bancă - Policlinică - Catedrală - Curcubeu - Mobilă - Obcini Flori (ultima stație) - Întoarcere semafor parc - Obcini Flori - Mobilă - Curcubeu - Nordic - Catedrală - Policlinică - Bancă - Centru - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont  - Cinema"
+    },
+    {
+      "id": "2",
+      "title": "Linia 2",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Gara Burdujeni - Comlemn - Cantină - Moldova - Orizont - IRIC - Carrefour - Iulius Mall - Bazar - Sala Sporturilor - Grup Școlar - Centru - Bancă - Policlinică - Spitalul Judeţean - Metro - Corduș - Școala nr. 9 - Obcini Flori - Mobilă - Curcubeu - Nordic - Catedrală - Policlinică - Bancă - Centru - Grup Școlar - Sala Sporturilor - Iulius Mall - Bazar - Carrefour - Orizont - Moldova - Cantină - Ramiro - Cartier ANL - Gara Burdujeni"
+    },
+    {
+      "id": "3",
+      "title": "Linia 3",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Gara Burdujeni - Comlemn - Cantină - Moldova - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru - Bancă - Policlinică - Spitalul Judeţean - Obcini Flori - Pasaj CFR Vest - Centură - Rulmentul - Jumbo - Bermas - Gara Suceava Vest - Mobilă - Curcubeu - Nordic - Catedrală - Policlinică - Bancă - Centru - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Moldova - Cantina - Ramiro - Cartier ANL - Gara Burdujeni"
+    },
+    {
+      "id": "4",
+      "title": "Linia 4",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Cinema - Depozit - Torino - Piaţă - Orizont - IRIC - Carrefour - Iulius Mall - Bazar - Sala Sporturilor - Grup Școlar - Centru - Bancă - Policlinică - Catedrală - Curcubeu - Mobilă - Obcini Flori - Metro - Corduş - Bloc IRE - Alimentara - Şcoala „Ion Creangă” - Obcini Flori - Mobilă - Curcubeu - Confecţia - Universitate - Policlinică - Bancă - Centru - Grup Școlar - Sala Sporturilor - Iulius Mall - Bazar - Carrefour - Orizont - Piaţă - Torino - Depozit - Spital Neuro - Cinema"
+    },
+    {
+      "id": "5",
+      "title": "Linia 5",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Gara Iţcani - Pasarelă - Străduinţa - Betty Ice - Petrom - TPL SA- Sticlă - Grup Școlar - Centru - Bancă - Policlinică - Spitalul Judeţean - Metro - Corduş -  Bloc IRE - Alimentara - Şcoala nr.9 - Obcini Flori - Mobilă - Curcubeu - Nordic - Catedrală - Policlinică - Bancă - Centru - Grup Școlar - Sticlă - TPL SA - Petrom - Selgros - Străduinţa - Pasarelă - Gara Iţcani"
+    },
+    {
+      "id": "15",
+      "title": "Linia 15",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Str. Eugen Dobrilă (`Gropi`) - *Șpac* - Școala nr. 6 - Tabita - str. Cpt. Grigore Andrei - Divizia transport electric - Cinema - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru - Casa Cărții - Autogara veche - Biserica Sf. Dumitru  - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Primăria Burdujeni - str. Cpt. Grigore Andrei - Divizia transport electric - Tabita - Școala nr. 6 - *Șpac* - str. Eugen Dobrilă (`Gropi`)"
+    },
+    {
+      "id": "17",
+      "title": "Linia 17",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Burdujeni sat  (`Şpac`)  - Școala nr. 6  - Cinema  - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru  - Bancă - Policlinică - ARCADIA -  Casa de Pensii  - ARCADIA - Policlinică - Bancă - Centru - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Cinema - Școala nr. 6  -  Burdujeni sat  (`Şpac`)"
+    },
+    {
+      "id": "21",
+      "title": "Linia 21",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Burdujeni Sat  (str. Plevnei) - Pod - Tabita - Depozit ouă - Cartierul Tinereţii - Torino - Piaţa Burdujeni - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Piaţa Burdujeni - Cartierul Tinereţii - Torino - Depozit ouă - Spital Neuro - Tabita - Pod - Burdujeni Sat  (str. Plevnei)"
+    },
+    {
+      "id": "22",
+      "title": "Linia 22",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Burdujeni Sat - Şcoala nr. 6 - Cinema - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru - Bancă - Policlinică - Catedrală - Curcubeu - Mobilă - Pasaj CFR Vest - Centură - Rulmentul - Jumbo - Bermas - Gara Suceava Vest - Mobilă - Curcubeu - Nordic - Catedrală - Policlinică - Bancă - Centru - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Cinema - Şcoala nr. 6 - Burdujeni Sat"
+    },
+    {
+      "id": "23",
+      "title": "Linia 23",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Str. Traian Popovici (cartier `Laniște`)  - Str. Eroilor  - Torino - Piaţa Burdujeni - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru  - Grup Școlar - Sala Sporturilor - Bazar  - Carrefour  - Orizont  - Piaţa Burdujeni  - Str. Eroilor - Str. Traian Popovici (cartier `Laniște`)"
+    },
+    {
+      "id": "26",
+      "title": "Linia 26",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Cartier ”La stejari” - Aleea Dumbrăvii  - Colț str. Gheorghe Doja - Ramiro - Cantina IRIC - Moldova - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Centru  - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Moldova - Cantina IRIC - Comlemn - Adria - Aleea Dumbrăvii - Cartier ”La stejari” "
+    },
+    {
+      "id": "28",
+      "title": "Linia 28",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Cinema - Depozit - Torino - Piaţa Burdujeni - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Sticlă - TPL SA - Petrom - Selgros - Străduinţa - Pasarelă - Gara Iţcani - Pasarelă - Străduinţa - Betty Ice - Petrom - TPL SA - Sticlă - Bazar - Carrefour - Orizont - Piaţa Burdujeni - Torino - Depozit - Spital Neuro - Cinema"
+    },
+    {
+      "id": "29",
+      "title": "Linia 29",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Stația pompe apă - Restaurant Claudia - Moara veche - Pasarelă - Betty Ice - Petrom - Str. Cernăuți - Piața mare - Autogara - Modern - Catedrală - Colegiul ”Dimitrie Cantemir” - Hotel Zamca - Clinica Arcadia - Str. Grigore Ureche - Catedrală - Biserica Sf. Nicolae - Autogara - Piața mare - Grup Școlar - Sticlă - TPL SA - Petrom - Selgros - Pasarelă - Moara veche - Restaurant Claudia - Stația pompe apă"
+    },
+    {
+      "id": "30",
+      "title": "Linia 30",
+      "start": "START STATION",
+      "end": "END STATION",
+      "operatingHours": "05:20 - 22:20",
+      "km": "20km",
+      "stations": "Gostat Iţcani - Defelcom - Pasarelă capăt - Pasarelă - Şcoala Iţcani - Centrofarm - Aleea Dumbrăvii - Ramiro - Cantină - Moldova - Orizont - IRIC - Carrefour - Bazar - Sala Sporturilor - Grup Școlar - Piața Mare - Autogara veche - Colegiul `Petru Rareș` - Parc Policlinică  - Spitalul Județean - Calea Obcinlor (stația Flori) - Curcubeu - Nordic - Catedrală - Parc Policlinică - Colegiul `Petru Rareș` - Autogara veche - Piața Mare - Grup Școlar - Sala Sporturilor - Bazar - Carrefour - Orizont - Moldova - Cantină - Ramiro - Aleea Dumbrăvii - Centrofarm - Şcoala Iţcani - Pasarelă - Defelcom - Gostat Iţcani"
+    }
+  ]
+}

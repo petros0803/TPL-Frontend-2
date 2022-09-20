@@ -1,0 +1,22 @@
+.announceHome--container {
+  height: 75px;
+  border: 1px solid #5603ad;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+
+  a {
+    color: #5603ad;
+    text-decoration: none;
+  }
+
+  .title {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  .description {
+    font-size: 18px;
+    text-indent: 15px;
+  }
+}

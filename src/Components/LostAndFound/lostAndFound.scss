@@ -1,0 +1,29 @@
+.lost--container {
+  overflow-y: auto;
+  height: calc(100vh - 180px);
+  padding-right: 10px;
+  text-indent: 15px;
+
+  .lost--page--title {
+    font-size: 24px;
+    color: #5603ad;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .lost--table {
+    width: 100%;
+    margin-top: 30px;
+    border-collapse: collapse;
+    border: 1px solid #5603ad;
+
+    tr {
+      border-bottom: 1px solid #5603ad;
+      height: 50px;
+    }
+
+    td {
+      border-left: 1px solid #5603ad;
+    }
+  }
+}

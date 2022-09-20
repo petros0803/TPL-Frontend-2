@@ -1,0 +1,11 @@
+.minibusses--container {
+  overflow-y: auto;
+  height: calc(100vh - 180px);
+
+  .minibusses--title {
+    font-size: 24px;
+    color: #5603ad;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}
